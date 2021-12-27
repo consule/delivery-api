@@ -1,5 +1,7 @@
-# delivery
+# Delivery
 ASP .NET 5, Angular 11, MySQL e Dapper. Sistema de controle de entregas para deposito de bebida, lanchonetes e outros. 
+
+Link do vídeo explicando o sistema: https://www.youtube.com/watch?v=NgEYEGuWlWs
 
 ## Script para criação das tabelas do banco de dados
 
